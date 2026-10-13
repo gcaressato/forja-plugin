@@ -31,7 +31,7 @@ O Forja se atualiza sozinho.
 
 ## Seus dados
 
-Ficam guardados seus treinos, seus planos e, se você ligar, as respostas do questionário e os dados do relógio, num servidor no Brasil. Ninguém além de você vê os seus dados, e nada é vendido nem compartilhado. O gc, que cuida do app, tem acesso aos treinos e planos para resolver problemas; o questionário e os dados do relógio são só seus. Você apaga a sua conta quando quiser, em Configurações → Conta.
+Ficam guardados: seus treinos, seus planos e, se você ligar, as respostas do questionário e os dados do relógio. Ninguém além de você vê os seus dados, e nada é vendido nem compartilhado. O questionário e os dados do relógio são só seus. Você apaga a sua conta quando quiser, em Configurações → Conta.
 
 Relógio: só os relógios Samsung (pelo Samsung Health) foram testados.
 
