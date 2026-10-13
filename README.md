@@ -9,10 +9,10 @@ Treino de musculação por estímulo muscular: monte o plano, registre cada sér
 1. **Instale o Obsidian**, de graça: [Android](https://play.google.com/store/apps/details?id=md.obsidian), [iPhone](https://apps.apple.com/app/obsidian-connected-notes/id1557175442) ou [computador](https://obsidian.md/download).
 2. **Baixe o cofre do Forja:** [Forja.zip](https://github.com/gcaressato/forja-plugin/releases/latest/download/Forja.zip).
 3. **Descompacte** o arquivo:
-   - **Android:** abra o app *Arquivos*, toque no Forja.zip e em *Extrair*. Deixe a pasta *Forja* em *Documentos*.
+   - **Android:** o Obsidian só abre pastas, então o zip precisa ser extraído. No app de arquivos (*Meus Arquivos* no Samsung, *Arquivos* nos outros), vá em *Armazenamento interno → Download*, toque no Forja.zip e em *Extrair*, e escolha a pasta *Documents* do armazenamento interno (ela existe em todo Android, com o nome em inglês).
    - **iPhone:** no app *Arquivos*, toque no Forja.zip (ele vira uma pasta) e mova a pasta *Forja* para *No meu iPhone → Obsidian*.
    - **Computador:** descompacte em qualquer lugar.
-4. **Abra no Obsidian:** *Abrir pasta como cofre* (no iPhone, o cofre *Forja* já aparece na lista) e escolha a pasta *Forja*, a que tem a nota "Comece aqui".
+4. **Abra no Obsidian:** *Abrir pasta como cofre* (*Open folder*; no iPhone, o cofre *Forja* já aparece na lista) e escolha a pasta *Forja*, a que tem a nota "Comece aqui" dentro. Se a extração criou *Forja* dentro de *Forja*, escolha a de dentro. Se o Obsidian pedir acesso aos arquivos, permita.
 5. O Obsidian pergunta se você confia no autor do cofre: toque em **Confiar e ativar plugins**.
 6. O Forja abre. Toque em **Pedir acesso**, preencha nome, e-mail e uma senha. Quando o gc liberar, toque em **Atualizar** e pronto.
 
