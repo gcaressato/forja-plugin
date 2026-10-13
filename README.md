@@ -2,7 +2,7 @@
 
 Treino de musculação por estímulo muscular: monte o plano, registre cada série na academia e acompanhe a evolução de cada músculo. Roda dentro do Obsidian, no celular e no computador.
 
-É um app caseiro, em teste com um grupo pequeno. Para usar, você precisa que o gc libere o seu acesso.
+É um app caseiro, em teste com um grupo pequeno. Para usar, você precisa ter o acesso liberado.
 
 ## Instalar (5 minutos)
 
@@ -14,7 +14,7 @@ Treino de musculação por estímulo muscular: monte o plano, registre cada sér
    - **Computador:** descompacte em qualquer lugar.
 4. **Abra no Obsidian:** *Abrir pasta como cofre* (*Open folder*; no iPhone, o cofre *Forja* já aparece na lista) e escolha a pasta *Forja*, a que tem a nota "Comece aqui" dentro. Se a extração criou *Forja* dentro de *Forja*, escolha a de dentro. Se o Obsidian pedir acesso aos arquivos, permita.
 5. O Obsidian pergunta se você confia no autor do cofre: toque em **Confiar e ativar plugins**.
-6. O Forja abre. Toque em **Pedir acesso**, preencha nome, e-mail e uma senha. Quando o gc liberar, toque em **Atualizar** e pronto.
+6. O Forja abre. Toque em **Pedir acesso**, preencha nome, e-mail e uma senha. Quando seu acesso for liberado, toque em **Atualizar** e pronto.
 
 Para usar também no computador (ou em outro celular), repita os passos lá e toque em **Entrar** com o mesmo e-mail e senha. Não sincronize a pasta do cofre entre aparelhos: cada um guarda o próprio login.
 
@@ -31,7 +31,7 @@ O Forja se atualiza sozinho.
 
 ## Seus dados
 
-Ficam guardados: seus treinos, seus planos e, se você ligar, as respostas do questionário e os dados do relógio. Ninguém além de você vê os seus dados, e nada é vendido nem compartilhado. O questionário e os dados do relógio são só seus. Você apaga a sua conta quando quiser, em Configurações → Conta.
+Ficam guardados: seus treinos, seus planos e, se você ligar, as respostas do questionário e os dados do relógio. Nada é vendido nem compartilhado. Quem administra o Forja tem acesso aos seus treinos e planos para resolver problemas; o questionário e os dados do relógio são só seus. Você apaga a sua conta quando quiser, em Configurações → Conta.
 
 Relógio: só os relógios Samsung (pelo Samsung Health) foram testados.
 
