@@ -1,0 +1,10 @@
+{
+	"id": "forja",
+	"name": "Forja",
+	"version": "0.46.0",
+	"minAppVersion": "1.7.2",
+	"description": "Treinos por estímulo muscular, registro de séries e análise de defasagem. Baseado no Gym Tracker (MIT).",
+	"author": "Forja",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
